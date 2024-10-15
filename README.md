@@ -18,4 +18,3 @@ Using powerful data analysis libraries like pandas and numpy, paired with visual
 📉 matplotlib for data visualization
 
 tiago.harari@gmail.com
-Tiago Harari
