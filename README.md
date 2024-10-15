@@ -17,4 +17,5 @@ Using powerful data analysis libraries like pandas and numpy, paired with visual
 📊 pandas & numpy for efficient data manipulation
 📉 matplotlib for data visualization
 
+tiago.harari@gmail.com
 Tiago Harari
