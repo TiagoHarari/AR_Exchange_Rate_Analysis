@@ -2,8 +2,8 @@
 
 📊 Analyzing Argentina's Exchange Rate Evolution with Python
 
-##Click Here: 
-https://colab.research.google.com/drive/1GD-mKUT9g0AN1oX4jT-wr5Olkqc5fdCM?usp=sharing
+[Click here to open the Colab notebook](https://colab.research.google.com/drive/1GD-mKUT9g0AN1oX4jT-wr5Olkqc5fdCM?usp=sharing)
+
 
 This repository dives deep into the foreign exchange market of Argentina, exploring how the Argentine peso has fluctuated over time against major world currencies.
 
